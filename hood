@@ -28,7 +28,7 @@ return nil
 end
 
 local Window = Library:CreateWindow({
-    Title = 'DoxZul / Da Hood',
+    Title = 'TypeHub / Da Hood',
     Center = true, 
     AutoShow = true,
 })
